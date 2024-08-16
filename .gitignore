@@ -1,2 +1,4 @@
 venv/
 config.py
+users.db
+news.txt
